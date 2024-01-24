@@ -1,0 +1,3 @@
+#ask user for a string
+input_str = input ("enter a string")
+
