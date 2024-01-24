@@ -5,4 +5,4 @@ input_str = input ("Enter a string:")
 result = [input_str[n] for n in range (0, len (input_str), 2)]
 
 # print the result
-print ("Characters at even indices:".join(result))
+print ("Characters at even indices:",','.join(result))
